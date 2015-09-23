@@ -1,0 +1,5 @@
+- Set up a server
+- Basic chat (no nicknames, no text save, no text scroll, auto delete)
+- Basic CSS, responsive chat functions
+- Add nicknames, functional links (if not already) 
+_______________________________________________________
